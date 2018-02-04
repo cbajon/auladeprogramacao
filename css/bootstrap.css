@@ -409,14 +409,14 @@ h6, .h6 {
 }
 
 .display-3 {
-  font-size: 4.5rem;
+  font-size: 71px;
   font-weight: 500;
   line-height: 1.2;
 }
 
 .display-4 {
   font-size: 3.5rem;
-  font-weight: 300;
+  font-weight: bolder;
   line-height: 1.2;
 }
 
