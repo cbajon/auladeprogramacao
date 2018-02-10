@@ -4943,6 +4943,8 @@ tbody.collapse.show {
 
 .subtitle {
   color:#ffffff;
+  font-size: 20px;
+  text shadow: 1px 2px #000;
 }
 
 @media (min-width: 576px) {
