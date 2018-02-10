@@ -409,10 +409,10 @@ h6, .h6 {
 }
 
 .display-3 {
-  font-size: 71px;
-  font-weight: bolder;
+  font-size: 72px;
+  font-weight: bold;
   line-height: 1.2;
-  colour: #ffffff;
+  color: #ffffff;
 }
 
 .display-4 {
